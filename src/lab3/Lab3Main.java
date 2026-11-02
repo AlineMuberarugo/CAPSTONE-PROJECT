@@ -39,7 +39,7 @@ public class Lab3Main {
                     case 1:
                         System.out.print("First name: ");
                         String firstName = input.nextLine();
-yes nad
+
                         System.out.print("Last name: ");
                         String lastName = input.nextLine();
 
